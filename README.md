@@ -1,2 +1,4 @@
 # EV_Green_Data_Analytics
-Data analysis on California's EV cars proposal
+Introducing a game-changing Data Analysis project supporting California's proposed ban on gasoline-powered vehicles by 2035. With meticulous data collection, cleaning, and analysis, Using Machine Learning and Time Series methods by Python and MS Excel, along with advanced visualization techniques, I've evaluated the ban's impact on sales and market share, compared costs of EVs and non-EVs, and assessed companies' readiness for EV production. 
+Four companies are selected for the analysis, Tesla Model S representing Electronic Cars Domain and Mercedes Class A, Honda CR-V, and Toyota Camry representing Non EVs side.
+The analysis reveals Tesla and other EV manufacturers as frontrunners, offering affordability advantages. Join me in driving positive change for a greener California!
